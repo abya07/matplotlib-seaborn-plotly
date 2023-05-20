@@ -12,3 +12,9 @@ Using "cars.csv" dataset, I have done the following tasks:
 - 9. Find out which manufacturers has Hybrids
 - 10. Plot the correlation matrix using plotly express and Seaborn
 - 11. Comment on the correlation matrix, which feature has the highest positive correlation with MSRP.
+
+
+
+8 - Porsche 
+9 - Honda and Toyota
+10 - Invoice has the highest positive correlation with MSRP of 1
